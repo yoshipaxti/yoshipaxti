@@ -2,7 +2,7 @@
 
 ## **Hi there** 👋😊
 
-I'm Rowel Dacut, an aspiring data analyst 📊✨ and a highly motivated Computer Engineering student 🎓 (graduating September 2025)!
+## I'm Rowel Dacut, an aspiring data analyst 📊✨ and a highly motivated Computer Engineering student 🎓 (graduating September 2025)!
 
 ### 📊 About Me
 
