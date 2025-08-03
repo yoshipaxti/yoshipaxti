@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**yoshipaxti/yoshipaxti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rowel Dacut, an aspiring data analyst and a highly motivated Computer Engineering student (graduating September 2025).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 About Me
+I have foundational knowledge in Python, Excel, and data visualization principles.
+I'm passionate about the power of data and eager to develop specialized skills in a hands-on environment.
+I'm a quick learner dedicated to contributing to a data-driven team and growing into a proficient Data Analyst
+
+
+🛠️ Technical Skills
+Data Analytics: Excel, Python 
+Data Visualization: Tableau 
+Software Development: Visual Basic.NET, Python 
+Web Development: HTML, CSS, JS, REACT, PHP 
