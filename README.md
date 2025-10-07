@@ -2,20 +2,15 @@
 
  **Hi there** 👋😊
 
- I'm Rowel Dacut, an aspiring data analyst 📊✨ and a highly motivated Computer Engineering student 🎓 (graduating September 2025)!
+I am a recent Computer Engineering Graduate actively pursuing a career as a Data Analyst.
 
- 📊 **About Me**
-
-I have foundational knowledge in Python 🐍, Excel 📈, and data visualization principles 🌟.  
-I'm passionate about the power of data 📊 and eager to develop specialized skills in a hands-on environment 🤓.  
-I'm a quick learner 🔍 dedicated to contributing to a data-driven team 💼 and growing into a proficient Data Analyst 📈🚀.
+Currently engaged in advanced upskilling, I apply a strong technical foundation to solve data-centric problems. Proficient in Python, Excel, and Tableau, I am driven to translate complex data into clear, strategic narratives.
 
  🛠️ **Technical Skills**
 
-- **Data Analytics**: Excel 📊, Python 🐍  
-- **Data Visualization**: Tableau 📊📈  
-- **Software Development**: Visual Basic.NET 💻, Python 🐍  
-- **Web Development**: HTML 🌐, CSS 🎨, JS 🚀, REACT ⚛️, PHP 🔧
+- **Data Analytics**: Excel, Python, Tableau & Power BI 📊📈  
+- **Development**: HTML, CSS, JavaScript, React, PHP, Visual Basic.NET 💻
+-
 
 
 
